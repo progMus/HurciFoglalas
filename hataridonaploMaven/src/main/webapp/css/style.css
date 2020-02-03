@@ -1,0 +1,23 @@
+.hatter1{
+    background-image: url("../img/1.jpg");
+    width: 1250px;
+    height: 700px;
+    padding: 0px;
+    margin: 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left top ;
+    border: none;
+}
+
+.hatter2{
+    background-image: url("../img/2.jpg");
+    width: 1250px;
+    height: 700px;
+    padding: 0px;
+    margin: 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left top ;
+    border: none;
+}
